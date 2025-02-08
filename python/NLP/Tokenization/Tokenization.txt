@@ -1,0 +1,23 @@
+1) Corpus - Paragraph
+2) Documents - Sentences
+3) Vocabulary - Unique words
+4) Words - All the words in Corpus
+
+What is Tokenization?
+Tokenization in Machine Learning (ML) is the process of splitting text into smaller components, 
+such as words, subwords, characters, or sentences, 
+which can then be used as inputs for models. 
+It’s a crucial step in Natural Language Processing (NLP), 
+as most ML models can’t process raw text directly.
+
+
+
+Any Corpus, Paragraph like "I am subbu, learing ML. I am also youtuber"
+
+Convert Corpus, Documents to tokens
+
+Token 1: I am subbu, learing ML
+Toekn 2: I am also youtuber
+
+Furture divide the Tokens to words, after that gets the Unique words
+
