@@ -1,0 +1,7 @@
+Stemming?
+
+Stemming is a text normalization technique used in Natural Language Processing (NLP) 
+to reduce words to their root or base form. 
+It is a crucial step in tokenization and helps improve search results, 
+text mining, and information retrieval by treating different forms of a word as the same.
+
